@@ -360,6 +360,8 @@ Após a entrega deste projeto ficará público :  https://github.com/Play2learn-
 ### Como usar executar App?
 
 - Instalar num dispositivo Android a aplicação ```play2learn.apk```.
+ 
+> O tamanho da aplicação é superior ao permitido anexar nesta página, portanto se quiser experimentar a aplicação contacte-me nalgum dos endereços ao fundo desta página. 
 
 <!-- 
 - O acesso ao SQL Server é feito através de um protocolo presente na Network
@@ -387,6 +389,8 @@ Após a entrega deste projeto ficará público :  https://github.com/Play2learn-
 - [Creately](https://creately.com/)
 - [LaTeX](https://www.latex-project.org/help/documentation/)
 - [Overleaf](https://www.overleaf.com/learn)
+
+> A restante documentação encontra-se no extenso Relatório Técnico estruturado mediante o desenvolvimento deste projeto.
 
 <!-- 
 - [C++](https://www.cplusplus.com/doc/)
